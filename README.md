@@ -38,7 +38,7 @@ Besides the library, Philadelphia contains the following applications:
 - [**Test Acceptor**](examples/acceptor) is an example application
   implementing a simple FIX acceptor
 
-- [**Test Initiator**](philadelphia-initiator) is an example application
+- [**Test Initiator**](examples/initiator) is an example application
   implementing a simple FIX initiator
 
 - [**Performance Test**](philadelphia-perf-test) contains microbenchmarks
